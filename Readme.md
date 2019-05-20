@@ -1,4 +1,4 @@
-![Shadowsocks](https://github.com/teddysun/shadowsocks_install/raw/master/shadowsocks.png)
+
 # Auto install Shadowsocks Server
 ```
 wget -N https://raw.githubusercontent.com/bakuniverse/shadowsocks_install/master/shadowsocks-libev-debian.sh
